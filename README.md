@@ -47,4 +47,22 @@ account_sid = "YOUR_ACCOUNT_SID"
 auth_token = "YOUR_AUTH_TOKEN"
 
 
+Adjust detection thresholds and parameters as needed in both scripts.
 
+Project Structure
+
+predator.py: Script for predator detection and alert system
+pose.py: Script for cattle pose estimation and behavior analysis
+videos/: Directory for input video files
+output_images/: Directory for processed output images
+runs/detect/train/: Directory containing the trained model details
+
+Model Details
+The trained model details can be found in the runs/detect/train/ directory. This includes model weights and configuration files.
+Contributing
+Contributions to improve the system are welcome. Please follow these steps:
+
+Fork the repository
+Create a new branch
+Make your changes and commit them
+Push to your fork and submit a pull request
