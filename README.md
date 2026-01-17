@@ -23,7 +23,7 @@ https://app.roboflow.com/college2yr/predator_detection/browse?queryText=&pageSiz
 ## Installation
 1. Clone the repository:
 
-git clone [https://github.com/AsherVC/Cattle_Shed_Surveillance_System.git]
+git clone [https://github.com/nikzeeiiy/Cattle-Shed-Surveillance-System-]
 
 2. Install the required dependencies:
 
